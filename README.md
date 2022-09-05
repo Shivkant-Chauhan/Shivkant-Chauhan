@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently pursuing my B.Tech majoring in CSE from IIITDM Jabalpur.
-- 🌱 I’m currently learning : Competitive Programming and MERN Stack Development
-- 👯 I’m looking to collaborate on some amazing open-source projects..
+- 🌱 I’m like to do Competitive Programming, learning new tech stacks and contributing in open-source organisations.
+- 👯 I’m currently collaborating with OPPIA foundation.
 - 📫 Linkedin: https://www.linkedin.com/in/shivkant-chauhan-31135911b
 
 
