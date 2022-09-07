@@ -44,12 +44,17 @@
 
  ## 🤝🏻 &nbsp;Connect with Me
 
-
-[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shivkantchauhan2002@gmail.com)
-[linkedin]: [https://www.linkedin.com/in/Shivkant-Chauhan/](https://www.linkedin.com/in/shivkant-chauhan-31135911b)
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-
+<a href="https://www.linkedin.com/in/shivkant-chauhan-31135911b">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin"/>
+  </a>
+  
+  <a href="https://twitter.com/ShivkantChauha6">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"/>
+  </a>
+  
+<a href="https://www.instagram.com/shivkant_rajput7/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"/>
+</a>
 
 
 
