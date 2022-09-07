@@ -49,3 +49,8 @@
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shivkantchauhan2002@gmail.com)
 [linkedin]: [https://www.linkedin.com/in/Shivkant-Chauhan/](https://www.linkedin.com/in/shivkant-chauhan-31135911b)
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+
+
+
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=brijsiyag.githubProfile)
