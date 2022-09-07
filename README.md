@@ -51,6 +51,7 @@
   <a href="https://twitter.com/ShivkantChauha6">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"/>
   </a>
+  [twitter]: https://twitter.com/ShivkantChauha6
   
 <a href="https://www.instagram.com/shivkant_rajput7/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"/>
