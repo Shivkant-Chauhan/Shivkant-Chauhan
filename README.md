@@ -31,7 +31,7 @@
 
 ### My Competitive Profiles:
 
-[<img align="left" alt="my Website" src="[https://img.shields.io/badge](https://www.codechef.com/users/shivkant_ch)/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
+[<img align="left" alt="my Website" src="[https://img.shields.io/badge](https://www.codechef.com/users/shivkant_ch)?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
 <!-- [<img align="left" alt="my Website" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][codeforces]
 [<img align="left" alt="my Website" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />][hackerearth]
 [<img align="left" alt="my Website" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
