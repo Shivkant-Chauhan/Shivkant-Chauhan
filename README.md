@@ -45,13 +45,10 @@
  ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/shivkant-chauhan-31135911b">
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin"/>
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin" />
   </a>
   
-  <a href="https://twitter.com/ShivkantChauha6">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"/>
-  </a>
-  [twitter]: https://twitter.com/ShivkantChauha6
+  [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]https://twitter.com/ShivkantChauha6
   
 <a href="https://www.instagram.com/shivkant_rajput7/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"/>
