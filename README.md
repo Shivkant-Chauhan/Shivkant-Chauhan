@@ -35,8 +35,8 @@
 <br>
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2
-<img src="https://github.com/Shivkant-Chauhan/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Shivkant-Chauhan/blob/master/generated/languages.svg#gh-dark-mode-only" />
+![](https://raw.githubusercontent.com/Shivkant-Chauhan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Shivkant-Chauhan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
   
 <br>
 
