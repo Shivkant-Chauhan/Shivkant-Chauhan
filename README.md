@@ -36,7 +36,7 @@
 
 [<img align="left" alt="my Website" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
 [<img align="left" alt="my Website" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][codeforces]
-[<img align="left" alt="my Website" src="[<img align="left" alt="my Website" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][leetcode]
+[<img align="left" alt="my Website" src="(https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)" />][leetcode]
 
 <br />
 
