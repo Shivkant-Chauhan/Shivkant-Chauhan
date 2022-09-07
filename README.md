@@ -34,26 +34,29 @@
 
 ### My Competitive Profiles:
 
-[<img align="left" alt="my Website" src="[https://img.shields.io/badge](https://www.codechef.com/users/shivkant_ch)?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
-<!-- [<img align="left" alt="my Website" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][codeforces]
-[<img align="left" alt="my Website" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />][hackerearth]
-[<img align="left" alt="my Website" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
- -->
+[<img align="left" alt="my Website" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
+[<img align="left" alt="my Website" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][codeforces]
+[<img align="left" alt="my Website" src="[<img align="left" alt="my Website" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][leetcode]
 
 <br />
 
  ## 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/shivkant-chauhan-31135911b">
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin" />
-  </a>
-  
-  [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]https://twitter.com/ShivkantChauha6
-  
-<a href="https://www.instagram.com/shivkant_rajput7/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"/>
-</a>
+[<img align="left" alt="my Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-
-
+<br><br><br>
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=brijsiyag.githubProfile)
+
+
+---
+
+[website]: https://github.com/Shivkant-Chauhan
+[twitter]: https://twitter.com/ShivkantChauha6
+[instagram]: https://instagram.com/shivkant_rajput7
+[linkedin]: https://www.linkedin.com/in/shivkant-chauhan-31135911b
+[codechef]: https://www.codechef.com/users/shivkant_ch
+[codeforces]: https://codeforces.com/profile/ShiVkant5
+[leetcode]: https://leetcode.com/shivkant_ch/
