@@ -5,7 +5,6 @@
 - 📫 Linkedin: https://www.linkedin.com/in/shivkant-chauhan-31135911b
 
 <br><br>
-### 🛠 &nbsp;Tech Stack I've used
 <h2>🛠 &nbsp;Tech Stack I've used</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -33,25 +32,25 @@
 
 
 
-<br><br>
+<br>
 
-### ⚙️ &nbsp;GitHub Analytics
+<h2>⚙️ &nbsp;GitHub Analytics</h2
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivkant-Chauhan&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"> 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivkant-Chauhan&&layout=compact&show_icons=trueline_height=21&langs_count=10&hide=html,css&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
 </div>
 
-<br><br>
+<br>
 
-### My Competitive Profiles:
+<h2>My Competitive Profiles:</h2
 
 [<img align="left" alt="CC" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
 [<img align="left" alt="CF" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][codeforces]
 [<img align="left" alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />][leetcode]
 
-<br><br>
+<br>
 
-### 🤝🏻 &nbsp;Connect with Me
+<h2>🤝🏻 &nbsp;Connect with Me</h2>
 
 [<img align="left" alt="my Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
