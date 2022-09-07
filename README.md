@@ -4,8 +4,8 @@
 - 👯 I’m currently collaborating with OPPIA foundation.
 - 📫 Linkedin: https://www.linkedin.com/in/shivkant-chauhan-31135911b
 
-
-## 🛠 &nbsp;Technologies I've used and Skills I've acquired
+<br><br>
+## 🛠 &nbsp;Tech Stack I've used
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -32,14 +32,15 @@
 
 
 
-
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivkant-Chauhan&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"> 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivkant-Chauhan&&layout=compact&show_icons=trueline_height=21&langs_count=10&hide=html,css&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
 </div>
-  
+
+<br><br>
 
 ### My Competitive Profiles:
 
@@ -47,7 +48,7 @@
 [<img align="left" alt="CF" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][codeforces]
 [<img align="left" alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />][leetcode]
 
-<br />
+<br><br>
 
  ## 🤝🏻 &nbsp;Connect with Me
 
