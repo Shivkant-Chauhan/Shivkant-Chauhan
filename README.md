@@ -37,7 +37,7 @@
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivkant-Chauhan&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hattietavares&" alt="hattietavares" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivkant-Chauhan&" /></p>
   
 <br>
 
