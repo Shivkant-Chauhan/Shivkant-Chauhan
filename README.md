@@ -38,6 +38,7 @@
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivkant-Chauhan&count_private=true&show_icons=trueline_height=21" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivkant-Chauhan&" /></p>
+ <p><a href="https://github.com/Shivkant-Chauhan/github-readme-activity-graph"><img alt="Shivkant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shivkant-Chauhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p
   
 <br>
 
