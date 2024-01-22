@@ -1,5 +1,5 @@
 ### Hi there, I am Shivkant Chauhan👋
-- 🔭 I’m currently pursuing my B.Tech majoring in CSE from IIITDM Jabalpur.
+- 🔭 I’m currently in my pre-final year of Bachelor in Technology majoring in CSE from IIITDM Jabalpur.
 - 🌱 I like to do Competitive Programming, learning new tech stacks and contributing in open-source organisations.
 - 👯 I’m currently collaborating with OPPIA foundation.
 - 📫 Linkedin: https://www.linkedin.com/in/shivkant-chauhan-31135911b
