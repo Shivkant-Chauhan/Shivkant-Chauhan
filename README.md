@@ -13,7 +13,7 @@
   <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shivkant-Chauhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<h2>🛠 &nbsp;Tech Stack I've used</h2>
+<h2>🛠 &nbsp;Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
