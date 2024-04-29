@@ -4,7 +4,15 @@
 - 💬 Ask me about: Software Development, Testing Automation, and System Designs
 - 📫 Contact: [LinkedIn]([url](https://www.linkedin.com/in/shivkant-chauhan-31135911b)) or email me at `shivkantchauhan2002@gmail.com`
 
-<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/Shivkant-Chauhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shivkant-Chauhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shivkant-Chauhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <h2>🛠 &nbsp;Tech Stack I've used</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -29,25 +37,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
 
-
-
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/Shivkant-Chauhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shivkant-Chauhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shivkant-Chauhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<br>
-
-<h2>⚙️ &nbsp;GitHub Analytics</h2>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivkant-Chauhan&count_private=true&show_icons=trueline_height=21" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivkant-Chauhan&" /></p>
- <p><a href="https://github.com/Shivkant-Chauhan/github-readme-activity-graph"><img alt="Shivkant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shivkant-Chauhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p
-  
-<br>
 
 <h2>My Competitive Profiles:</h2
 
