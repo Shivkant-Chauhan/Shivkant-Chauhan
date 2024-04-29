@@ -1,4 +1,4 @@
-### Hi there, I am Shivkant Chauhan👋
+<h1 align="center">Hi there 👋, I'm Shivkant Chauhan</h1>
 - 👨‍🏫 CSE Undergrad at Indian Institute Of Information Technology, Jabalpur
 - 🌱 Interested in Software Engineering, designing complex systems, and contributing to open-source software
 - 💬 Ask me about: Software Development, Testing Automation, and System Designs
