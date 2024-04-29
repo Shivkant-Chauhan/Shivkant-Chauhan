@@ -32,7 +32,14 @@
 
 
 
+## ⚙️ &nbsp;GitHub Analytics
 
+<p align="left">
+<a href="https://github.com/Shivkant-Chauhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shivkant-Chauhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shivkant-Chauhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <br>
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
