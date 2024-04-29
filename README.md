@@ -37,15 +37,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
 
-
-<h2>My Competitive Profiles:</h2
-
-[<img align="left" alt="CC" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
-[<img align="left" alt="CF" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][codeforces]
-[<img align="left" alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />][leetcode]
-
-<br><br>
-
 <h2>🤝🏻 &nbsp;Connect with Me</h2>
 
 [<img align="left" alt="my Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
@@ -54,7 +45,7 @@
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br><br><br><br>
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=brijsiyag.githubProfile)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Shivkant-Chauhan.githubProfile)
 
 
 ---
@@ -63,6 +54,4 @@
 [twitter]: https://twitter.com/ShivkantChauha6
 [instagram]: https://instagram.com/shivkant_rajput7
 [linkedin]: https://www.linkedin.com/in/shivkant-chauhan-31135911b
-[codechef]: https://www.codechef.com/users/shivkant_ch
-[codeforces]: https://codeforces.com/profile/ShiVkant5
-[leetcode]: https://leetcode.com/shivkant_ch/
+
