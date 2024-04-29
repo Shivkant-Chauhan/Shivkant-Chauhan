@@ -1,8 +1,8 @@
 ### Hi there, I am Shivkant Chauhan👋
-- 🔭 I’m currently in my pre-final year of Bachelor in Technology majoring in CSE from IIITDM Jabalpur.
-- 🌱 I like to do Competitive Programming, learning new tech stacks and contributing in open-source organisations.
-- 👯 I’m currently collaborating with OPPIA foundation.
-- 📫 Linkedin: https://www.linkedin.com/in/shivkant-chauhan-31135911b
+- 👨‍🏫 CSE Undergrad at Indian Institute Of Information Technology, Jabalpur
+- 🌱 Interested in Software Engineering, designing complex systems, and contributing to open-source software.
+- 💬 Ask me about: Software Development, Automated Testing, and System Designs
+- 📫 Contact: [LinkedIn]([url](https://www.linkedin.com/in/shivkant-chauhan-31135911b)) or email me at `shivkantchauhan2002@gmail.com`
 
 <br><br>
 <h2>🛠 &nbsp;Tech Stack I've used</h2>
